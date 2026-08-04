@@ -1,0 +1,5 @@
+username,password_hash,role
+admin,pbkdf2_sha256$120000$admin-demo-salt$24f5cffadf37533bd9373d1a0fbf697a5bf9c69deb4449977730711ba950fd69,Admin
+cashier,pbkdf2_sha256$120000$cashier-demo-salt$1dd34ad0571f6b71aa1ca833cf197caeb359b22dfd581c7c74a60dc2701b0aaa,Kassenwart
+finance,pbkdf2_sha256$120000$finance-demo-salt$89e1823769089ca339f928a9abaf4f11aee1494e2094f8911a5a5dbd0aa1c03d,Referentin-Finanzen
+
